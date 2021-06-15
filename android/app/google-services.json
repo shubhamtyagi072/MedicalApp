@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "465353870566",
+    "firebase_url": "https://miomedico.firebaseio.com",
+    "project_id": "miomedico",
+    "storage_bucket": "miomedico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465353870566:android:7d19dedfed47affc043f27",
+        "android_client_info": {
+          "package_name": "com.ilmiomedico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465353870566-pep79mpoqctffb69oj140hrvfepbu0j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB96H602MC1laGT6cc-rQd0EjplH0xvPh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465353870566-pep79mpoqctffb69oj140hrvfepbu0j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465353870566:android:a206572a8d3db028043f27",
+        "android_client_info": {
+          "package_name": "it.ilmiomedicoinrete.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465353870566-pep79mpoqctffb69oj140hrvfepbu0j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB96H602MC1laGT6cc-rQd0EjplH0xvPh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465353870566-pep79mpoqctffb69oj140hrvfepbu0j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
